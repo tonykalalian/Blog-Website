@@ -13,10 +13,10 @@ Welcome to FitLife! This project is a fitness blog website where you can share y
 
 ## 📥 How to Install
 1. Clone the repository:
-git clone https://github.com/your-username/FitLife.git
+git clone [https://github.com/your-username/FitLife.git](https://github.com/tonykalalian/Blog-Website.git)
 
 2. Navigate to the project directory:
-cd FitLife
+cd Blog-Website
 
 3. Install the dependencies:
 npm install
